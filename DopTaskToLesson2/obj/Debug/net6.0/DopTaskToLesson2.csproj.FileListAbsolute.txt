@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\DopTaskToLesson2\obj\Debug\net6.0\DopTaskToLesson2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\DopTaskToLesson2\obj\Debug\net6.0\DopTaskToLesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\DopTaskToLesson2\obj\Debug\net6.0\DopTaskToLesson2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\DopTaskToLesson2\obj\Debug\net6.0\DopTaskToLesson2.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\DopTaskToLesson2\obj\Debug\net6.0\DopTaskToLesson2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\DopTaskToLesson2\bin\Debug\net6.0\DopTaskToLesson2.exe
+C:\Users\User\Desktop\C#\DopTaskToLesson2\bin\Debug\net6.0\DopTaskToLesson2.deps.json
+C:\Users\User\Desktop\C#\DopTaskToLesson2\bin\Debug\net6.0\DopTaskToLesson2.runtimeconfig.json
+C:\Users\User\Desktop\C#\DopTaskToLesson2\bin\Debug\net6.0\DopTaskToLesson2.dll
+C:\Users\User\Desktop\C#\DopTaskToLesson2\bin\Debug\net6.0\DopTaskToLesson2.pdb
+C:\Users\User\Desktop\C#\DopTaskToLesson2\obj\Debug\net6.0\DopTaskToLesson2.dll
+C:\Users\User\Desktop\C#\DopTaskToLesson2\obj\Debug\net6.0\refint\DopTaskToLesson2.dll
+C:\Users\User\Desktop\C#\DopTaskToLesson2\obj\Debug\net6.0\DopTaskToLesson2.pdb
+C:\Users\User\Desktop\C#\DopTaskToLesson2\obj\Debug\net6.0\DopTaskToLesson2.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\DopTaskToLesson2\obj\Debug\net6.0\ref\DopTaskToLesson2.dll
